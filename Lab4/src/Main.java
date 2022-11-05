@@ -8,7 +8,6 @@ public class Main {
 
         System.out.println("User's input total grades: ");
         int[] total = obj.getTotalGrades();
-
         System.out.println("User's input earned grades: ");
         int[] earned = obj.getEarnedGrades();
 
